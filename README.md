@@ -39,7 +39,7 @@ google.com
 위와 같은 MessageBox가 나옵니다.   
 예를 눌렀을 경우 로그파일에 "Unsafe webpage accessed" 라고 기록되고, 아니요를 눌렀을 경우 로그파일에 "Webpage Blocked" 라고 기록됩니다.   
 
-![3.png](https://raw.githubusercontent.com/D3vle0/comjipsa/master/photo/3.PNG)
+![4.png](https://raw.githubusercontent.com/D3vle0/comjipsa/master/photo/4.PNG)
 
 comjipsa.exe 파일과 함께 실행되는 timer.exe 는 1시간에 1번씩 dns 캐시를 플러쉬해줍니다.   
 인터넷 속도가 약간 향상되는 효과를 보실 수 있습니다.   
